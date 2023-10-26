@@ -48,7 +48,7 @@ This project is released under the Apache - 2.0 License. See the [LICENSE](https
 
 ## Contact
 
-For any questions or feedback, please reach out to alibaba.esanov@gmail.com.
+For any questions or feedback, please reach out to nurmatovnurullo.n@gmail.com.
 
 ## Acknowledgments
 
